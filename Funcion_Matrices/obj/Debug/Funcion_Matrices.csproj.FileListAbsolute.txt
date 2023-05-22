@@ -1,0 +1,32 @@
+c:\users\hp 2018\documents\visual studio 2012\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\Funcion_Matrices.exe.config
+c:\users\hp 2018\documents\visual studio 2012\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\Funcion_Matrices.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\Funcion_Matrices.pdb
+c:\users\hp 2018\documents\visual studio 2012\Projects\Funcion_Matrices\Funcion_Matrices\obj\Debug\Funcion_Matrices.csprojResolveAssemblyReference.cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Funcion_Matrices\Funcion_Matrices\obj\Debug\Funcion_Matrices.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Funcion_Matrices\Funcion_Matrices\obj\Debug\Funcion_Matrices.pdb
+E:\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\Funcion_Matrices.exe.config
+E:\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\Funcion_Matrices.exe
+E:\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\Funcion_Matrices.pdb
+E:\Projects\Funcion_Matrices\Funcion_Matrices\obj\Debug\Funcion_Matrices.exe
+E:\Projects\Funcion_Matrices\Funcion_Matrices\obj\Debug\Funcion_Matrices.pdb
+E:\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\mscorlib.dll
+E:\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\es\mscorlib.resources.dll
+E:\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\normidna.nlp
+E:\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\normnfc.nlp
+E:\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\normnfd.nlp
+E:\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\normnfkc.nlp
+E:\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\normnfkd.nlp
+E:\Projects\Funcion_Matrices\Funcion_Matrices\obj\Debug\Funcion_Matrices.csprojResolveAssemblyReference.cache
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\Funcion_Matrices.exe.config
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\obj\Debug\Funcion_Matrices.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\obj\Debug\Funcion_Matrices.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\Funcion_Matrices.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\Funcion_Matrices.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\mscorlib.dll
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\normidna.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\normnfc.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\normnfd.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\normnfkc.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\bin\Debug\normnfkd.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Funcion_Matrices\Funcion_Matrices\obj\Debug\Funcion_Matrices.csprojResolveAssemblyReference.cache
